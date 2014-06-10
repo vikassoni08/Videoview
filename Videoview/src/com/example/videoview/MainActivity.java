@@ -49,6 +49,8 @@ public class MainActivity extends Activity {
 				mVideoView.start();
 			}
 		});
+		
+		these are the changes related to my code writtern by vikas soni...
 	*/
 		
 		
